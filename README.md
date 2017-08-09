@@ -18,7 +18,7 @@
 
 ## Description
 
-A wrapper class around python's list with index starting at 2.
+A wrapper class around python3's list with index starting at 2.
 
 ## Purpose
 `AttributeError: 'PotatoArray' object has no attribute 'purpose'`
